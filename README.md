@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of nlssn/flarum-ext-swedish.** Not for installation: use [Packagist](https://packagist.org/packages/nlssn/flarum-ext-swedish) or the [upstream repository](https://github.com/nlssn/flarum-ext-swedish).
 
-**0** versions archived · Latest: [`v2.0.0`](https://github.com/flarchive/nlssn-flarum-ext-swedish/tree/archive/v2.0.0) · License: `MIT` · Flarum: `^0.1.0-beta.7`
+**2** versions archived · Latest: [`v2.0.0`](https://github.com/flarchive/nlssn-flarum-ext-swedish/tree/archive/v2.0.0) · License: `MIT` · Flarum: `^0.1.0-beta.7`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2017-04-29 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/nlssn-flarum-ext-swedish/tree/archive/v1.0.0) |
+| `v2.0.0` | 2018-05-09 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/nlssn-flarum-ext-swedish/tree/archive/v2.0.0) |
 
 Catalog entry: [packages/nlssn-flarum-ext-swedish.json](https://github.com/flarchive/archive-index/blob/main/packages/nlssn-flarum-ext-swedish.json)
 
